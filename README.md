@@ -1,2 +1,2 @@
-# Shell
-Created a shell using C language 
+# Terminal
+A custom shell implementation using C language 
